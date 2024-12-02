@@ -40,6 +40,8 @@ Muestra todos los autores asociados a los libros registrados, junto con su fecha
 Nombre                                               | Fecha de nacimiento
 ===========================================================================
 Jane Austen                                          | 1775-12-16
+
+
 ![image](https://github.com/user-attachments/assets/8fbba186-df76-47a9-a342-0a0265f16007)
 
 
@@ -52,7 +54,9 @@ Ingrese el año de nacimiento del autor:
 > 1900
 Autores vivos en el año 1900:
 Gabriel García Márquez - Año de nacimiento: 1927
-> 
+
+
+
 ![image](https://github.com/user-attachments/assets/6aad43f6-8a61-4f35-8648-7f5ad8aee82f)
 
 5
@@ -63,5 +67,7 @@ Título                                               | Idiomas
 ================================================================
 Don Quijote                                          | es
 Moby Dick                                            | en
+
+
 ![image](https://github.com/user-attachments/assets/0821f86a-3739-4311-957a-be3982c2c8f7)
 
